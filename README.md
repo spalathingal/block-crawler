@@ -40,9 +40,9 @@ My approach was to follow the guidelines listed in the problem statement, which 
 - This took me about 5 hours to complete
 - Results can be seen in results.txt
 
-## Conclusion
+## Afterthoughts
 - Was a neat assignment, my first exposure to crawling through the blockchain (API is quick to set up!).
 - Conversions of table values from hexadecimal caused me a decent amount of trouble that I had to debug.
-- I might have separated these functions into separate files in hindsight for modularity and organization.
+- I might have separated these functions up more in hindsight for modularity and organization.
 - If I had a much larger input range, I would likely need to persist to the database with each QuickNode api call as opposed to storing all transactions in-memory in a list.
 - Overall a fun task, felt like I learned a lot more about how the blockchain operates!
